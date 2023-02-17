@@ -9,7 +9,7 @@ By default the app will connect to https://publish-p81252-e700817.adobeaemcloud.
 &endpoint=graphql/execute.json/sample-wknd-app/homepage
 ```
 
->Note that for an author host to work, you must first login to the AEM environment within another tab.
+> Note that for an author host to work, you must first login to the AEM environment within another tab.
 
 If connecting to the author host and publish host fails, the app will fallback to: https://publish-p81252-e700817.adobeaemcloud.com.
 
